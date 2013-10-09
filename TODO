@@ -5,7 +5,7 @@
 +simplify arbitrary socket options
 +do something with UDP
 +xml style output
-+allow send volume to be specified (instead of duration)
++allow -Z and -G to run together
 +Add optional columns for sender/receiver buffer
 +replace pthread barrier for mac os x
 +add gpl header to every source file
