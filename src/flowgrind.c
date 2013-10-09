@@ -675,7 +675,7 @@ static void usage(void)
 		"  -T x=#.#     Set flow duration, in seconds (default: s=10,d=0)\n"
 		"  -W x=#       Set requested receiver buffer (advertised window) in bytes\n"
 		"  -Y x=#.#     Set initial delay before the host starts to send data\n"
-		"  -Z x=#.#     Set bulk data transfer\n\n",
+		"  -Z x=#.#     Set amount of data to be sent, in bytes\n\n",
 		opt.log_filename_prefix,
 		progname,
 		MIN_BLOCK_SIZE
