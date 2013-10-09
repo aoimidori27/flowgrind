@@ -2096,7 +2096,7 @@ static void parse_cmdline(int argc, char **argv) {
 		}
 	}
 
-	while ((ch = getopt(argc, argv, "c:de:h:i:l:mn:opqr:vwA:B:CD:EF:G:H:J:LNM:O:P:QR:S:T:U:W:Y:Z:")) != -1)
+	while ((ch = getopt(argc, argv, "c:de:hi:l:mn:opqr:vwA:B:CD:EF:G:H:J:LNM:O:P:QR:S:T:U:W:Y:Z:")) != -1)
 
 		switch (ch) {
 
